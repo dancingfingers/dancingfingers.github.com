@@ -18,7 +18,7 @@ In `_config.yml` remember to specify your own data:
     author :
       name : Name Lastname
       email : blah@email.test
-      github : username
+      github : dancingfingers
       twitter : username
 
 The theme should reference these variables whenever needed.
@@ -43,4 +43,7 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
-
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F517a8b37e40e4b0e1bb4f7437d6e878e' type='text/javascript'%3E%3C/script%3E"));
+</script>
